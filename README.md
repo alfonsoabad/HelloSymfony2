@@ -145,3 +145,8 @@ The Symfony Standard Edition comes pre-configured with the following bundles:
 * **AcmeDemoBundle** (in dev/test env) - A demo bundle with some example code
 
 Enjoy!
+=======
+HelloSymfony2
+=============
+
+Just the Hello World of symfony 2 once configured you can hit http://localhost/app_dev.php/hello/yournanme
